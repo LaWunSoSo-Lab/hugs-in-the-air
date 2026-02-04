@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+
+  <title>Hugs In The Air</title>
+  <link>https://github.com/LaWunSoSo-Lab/my-podcasts/hugs_in_the_air</link>
+  <language>en-us</language>
+
+  <description>Hugs in the Air is a gentle podcast for anyone who needs a little company.
+It’s like listening to a long-distance friend who shows up, sits with you, and talks about life as it is — worries, quarter-life crises, movies, books, and the quiet thoughts we don’t always say out loud.
+You don’t have to be brave or strong here. Just listen, breathe, and feel less alone.</description>
+  <itunes:author>La Wun</itunes:author>
+  <itunes:summary>A soft, cozy podcast that feels like a long-distance friend talking about life, quarter-life struggles, movies, books, and the comfort of not being alone.</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+
+  <itunes:image href="https://github.com/LaWunSoSo-Lab/my-podcasts/hugs_in_the_air/HugsInTheAir.png"/>
+  <itunes:category text="Society &amp; Culture"/>
+
+  <item>
+    <title>Introduction</title>
+    <description>Hello Welcome Guys</description>
+
+    <enclosure
+      url="https://github.com/LaWunSoSo-Lab/my-podcasts/hugs_in_the_air/episodes/introduction.mp3"
+      length="3106517"
+      type="audio/mpeg"/>
+
+    <guid>episode-0</guid>
+    <pubDate>Tue, 04 Feb 2026 12:00:00 GMT</pubDate>
+    <itunes:duration>04:19</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+
+</channel>
+</rss>
