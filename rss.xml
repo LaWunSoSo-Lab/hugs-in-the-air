@@ -5,9 +5,6 @@
 
   <title>Hugs in the Air</title>
 
-  <!-- CHANGED: github.io URL -->
-  <link>https://lawunsoso-lab.github.io/hugs-in-the-air/</link>
-
   <language>en-us</language>
 
   <description>
@@ -34,6 +31,9 @@
 
   <item>
     <title>Introduction</title>
+
+    <!-- CHANGED: github.io URL -->
+    <link>https://lawunsoso-lab.github.io/hugs-in-the-air/</link>
     <description>Hello, welcome.</description>
 
     <!-- CHANGED: audio URL -->
