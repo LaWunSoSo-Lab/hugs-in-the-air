@@ -11,10 +11,7 @@
   <language>en-us</language>
 
   <description>
-    Hugs in the Air is a gentle podcast for anyone who needs a little company.
-    It feels like listening to a long-distance friend talking about life,
-    quarter-life crises, movies, books, and quiet struggles.
-    Just listen and feel less alone.
+    Hugs in the Air is a gentle podcast for anyone who needs a little company. It feels like listening to a long-distance friend talking about life, quarter-life crises, movies, books, and quiet struggles. Just listen and feel less alone.
   </description>
 
   <itunes:author>La Wun So So</itunes:author>
@@ -54,6 +51,24 @@
     <guid>episode-0</guid>
     <pubDate>Tue, 09 Feb 2026 12:00:00 GMT</pubDate>
     <itunes:duration>04:19</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+
+  <item>
+    <title>Episode 1</title>
+    <!-- CHANGED: github.io URL -->
+    <link>https://lawunsoso-lab.github.io/hugs-in-the-air/</link>
+    <description></description>
+
+    <!-- CHANGED: audio URL -->
+    <enclosure
+      url="https://lawunsoso-lab.github.io/hugs-in-the-air/episodes/episode 1.mp3"
+      length="19459445"
+      type="audio/mpeg"/>
+
+    <guid>episode-0</guid>
+    <pubDate>Tue, 09 Feb 2026 12:00:00 GMT</pubDate>
+    <itunes:duration>27:01</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
   </item>
 
