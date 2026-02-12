@@ -50,6 +50,7 @@
 
     <guid>episode-0</guid>
     <pubDate>Tue, 09 Feb 2026 12:00:00 GMT</pubDate>
+    <itunes:season>1</itunes:season>
     <itunes:duration>04:19</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
   </item>
@@ -75,6 +76,8 @@ Little House in the Forest
 
     <guid>episode-1</guid>
     <pubDate>Tue, 09 Feb 2026 12:00:00 GMT</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>1</itunes:episode>
     <itunes:duration>27:01</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
   </item>
@@ -96,6 +99,8 @@ This episode is all about balance — the realization that when we find balance 
 
     <guid>episode-2</guid>
     <pubDate>Thur, 12 Feb 2026 14:00:00 GMT</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>2</itunes:episode>
     <itunes:duration>29:17</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
   </item>
