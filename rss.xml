@@ -55,7 +55,7 @@
   </item>
 
   <item>
-    <title>Episode 1</title>
+    <title>Episode 1. My fave variety shows of all time</title>
     <!-- CHANGED: github.io URL -->
     <link>https://lawunsoso-lab.github.io/hugs-in-the-air/</link>
     <description><![CDATA[
@@ -76,6 +76,27 @@ Little House in the Forest
     <guid>episode-1</guid>
     <pubDate>Tue, 09 Feb 2026 12:00:00 GMT</pubDate>
     <itunes:duration>27:01</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+
+  <item>
+    <title>Episode 2. It's always about balance</title>
+    <!-- CHANGED: github.io URL -->
+    <link>https://lawunsoso-lab.github.io/hugs-in-the-air/</link>
+    <description><![CDATA[
+This episode is all about balance — the realization that when we find balance in our lives, we can be a little happier. But the truth hurts, right? We can’t be perfectly balanced in everything. So let’s talk about it.
+]]></description>
+
+
+    <!-- CHANGED: audio URL -->
+    <enclosure
+      url="https://lawunsoso-lab.github.io/hugs-in-the-air/episodes/episode 2.mp3"
+      length="21085203"
+      type="audio/mpeg"/>
+
+    <guid>episode-2</guid>
+    <pubDate>Thur, 12 Feb 2026 14:00:00 GMT</pubDate>
+    <itunes:duration>29:17</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
   </item>
 
