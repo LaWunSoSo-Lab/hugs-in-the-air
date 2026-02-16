@@ -105,5 +105,28 @@ This episode is all about balance — the realization that when we find balance 
     <itunes:explicit>no</itunes:explicit>
   </item>
 
+  <item>
+    <title>Episode 3. Adulting Sucks</title>
+    <!-- CHANGED: github.io URL -->
+    <link>https://lawunsoso-lab.github.io/hugs-in-the-air/</link>
+    <description><![CDATA[
+Today is my last day in this foreign country. It feels surreal to pack up a chapter of my life and prepare to go back home. In this episode, I talk about the mixed emotions, the uncertainty, and what “adulting” really feels like in moments like this.
+]]></description>
+
+
+    <!-- CHANGED: audio URL -->
+    <enclosure
+      url="https://lawunsoso-lab.github.io/hugs-in-the-air/episodes/episode 3.mp3"
+      length="24752019"
+      type="audio/mpeg"/>
+
+    <guid>episode-3</guid>
+    <pubDate>Mon, 16 Feb 2026 20:00:00 GMT</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:duration>34:22</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
