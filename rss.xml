@@ -123,8 +123,31 @@ Today is my last day in this foreign country. It feels surreal to pack up a chap
     <guid>episode-3</guid>
     <pubDate>Mon, 16 Feb 2026 20:00:00 GMT</pubDate>
     <itunes:season>1</itunes:season>
-    <itunes:episode>2</itunes:episode>
+    <itunes:episode>3</itunes:episode>
     <itunes:duration>34:22</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+
+  <item>
+    <title>Episode 4. Dear, Brother</title>
+    <!-- CHANGED: github.io URL -->
+    <link>https://lawunsoso-lab.github.io/hugs-in-the-air/</link>
+    <description><![CDATA[
+To all the eldest ones in the sibling line, including my brother you don’t have to carry everything on your shoulders all the time. You don’t always need to be the captain of the ship. If you need help, support, or just someone to listen, please holler anytime. You’re not alone.
+]]></description>
+
+
+    <!-- CHANGED: audio URL -->
+    <enclosure
+      url="https://lawunsoso-lab.github.io/hugs-in-the-air/episodes/episode 4.mp3"
+      length="17514308"
+      type="audio/mpeg"/>
+
+    <guid>episode-4</guid>
+    <pubDate>Fri, 27 Feb 2026 20:00:00 GMT</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:duration>53:31</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
   </item>
 
