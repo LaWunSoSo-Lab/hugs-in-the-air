@@ -49,7 +49,7 @@
       type="audio/mpeg"/>
 
     <guid>episode-0</guid>
-    <pubDate>Tue, 09 Feb 2026 12:00:00 GMT</pubDate>
+    <pubDate>Tue, 08 Feb 2026 12:00:00 GMT</pubDate>
     <itunes:season>1</itunes:season>
     <itunes:duration>04:19</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
@@ -171,6 +171,31 @@ This is just an intermission episode!!!
     <itunes:season>1</itunes:season>
     <itunes:episode>5</itunes:episode>
     <itunes:duration>15:23</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+
+  <item>
+    <title>Episode 6. I’m scared to become a boss</title>
+    <!-- CHANGED: github.io URL -->
+    <link>https://lawunsoso-lab.github.io/hugs-in-the-air/</link>
+    <description><![CDATA[
+Long time no see. It’s been a while since my last upload, but here I am again.
+Today marks one month since I returned home. To keep this moment as a memory, I’m sharing something I recorded on February 12.
+This idea has been with me ever since I started working a 9-to-5 job almost six years ago—and it’s still close to my heart.
+]]></description>
+
+
+    <!-- CHANGED: audio URL -->
+    <enclosure
+      url="https://lawunsoso-lab.github.io/hugs-in-the-air/episodes/episode 6.mp3"
+      length="12925852"
+      type="audio/mpeg"/>
+
+    <guid>episode-6</guid>
+    <pubDate>Tue, 17 Mar 2026 08:00:00 GMT</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:duration>17:57</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
   </item>
 
