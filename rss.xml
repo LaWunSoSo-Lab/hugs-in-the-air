@@ -199,5 +199,53 @@ This idea has been with me ever since I started working a 9-to-5 job almost six 
     <itunes:explicit>no</itunes:explicit>
   </item>
 
+  <item>
+    <title>Episode 7. Part 1 - Dilemma of these days young people</title>
+    <!-- CHANGED: github.io URL -->
+    <link>https://lawunsoso-lab.github.io/hugs-in-the-air/</link>
+    <description><![CDATA[
+Hello! It’s been almost a month since my last episode. I actually had a couple recorded, but I kept putting off uploading them because they felt too raw, emotional, and a bit biased.
+But today, I’m doing something different. I’ll be uploading two brand-new episodes, and guess what… they’re scripted! Yes, you heard that right.
+I’d really appreciate it if you give them a try. 🤍
+]]></description>
+
+
+    <!-- CHANGED: audio URL -->
+    <enclosure
+      url="https://lawunsoso-lab.github.io/hugs-in-the-air/episodes/episode 7.mp3"
+      length="26054897"
+      type="audio/mpeg"/>
+
+    <guid>episode-7</guid>
+    <pubDate>Thur, 16 Apr 2026 08:00:00 GMT</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:duration>54:17</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+
+  <item>
+    <title>Episode 8. Part 2 - Dilemma of these days young people</title>
+    <!-- CHANGED: github.io URL -->
+    <link>https://lawunsoso-lab.github.io/hugs-in-the-air/</link>
+    <description><![CDATA[
+Here’s Part 2! Sorry Part 1 ended up being a bit long, but thank you if you listened all the way through. I hope you enjoy this one 🤍
+]]></description>
+
+
+    <!-- CHANGED: audio URL -->
+    <enclosure
+      url="https://lawunsoso-lab.github.io/hugs-in-the-air/episodes/episode 8.mp3"
+      length="18197796"
+      type="audio/mpeg"/>
+
+    <guid>episode-8</guid>
+    <pubDate>Thur, 16 Apr 2026 10:00:00 GMT</pubDate>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>8</itunes:episode>
+    <itunes:duration>25:16</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
